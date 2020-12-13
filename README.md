@@ -1,3 +1,4 @@
 # AI_Bioscope
 
-### This repository will include a project on Text to Image Generation.
+### This repository will include project on Text to Image Generation.
+
